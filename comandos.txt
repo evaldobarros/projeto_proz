@@ -1,0 +1,4 @@
+commit
+add -add
+git show
+git status
