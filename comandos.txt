@@ -8,3 +8,6 @@ git status
 Aprendendo branch
 comandos
 git branch
+git config user.name
+git config user.email 
+git commit -m "commit nova branch"
