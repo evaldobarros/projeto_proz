@@ -2,3 +2,9 @@ commit
 add -add
 git show
 git status
+
+
+
+Aprendendo branch
+comandos
+git branch
